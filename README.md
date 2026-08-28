@@ -1,0 +1,2 @@
+# Using-Access-Control-Lists-to-Modify-File-System-Permissions-on-Windows-Systems-Lab
+Lab report for "Using Access Control Lists to Modify File System Permissions on Windows Systems" (Security Strategies in Windows Platforms and Applications, 3e) — Covers GUI and CLI (icacls.exe) ACL configuration, PowerShell security automation, least privilege analysis, and permission validation across Windows environments.
